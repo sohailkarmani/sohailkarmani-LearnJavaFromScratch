@@ -1,4 +1,4 @@
-package oops;
+//package oops;
 
 public interface Shape {
     public abstract void calculateArea(int c);

@@ -15,7 +15,7 @@ class Students{
 
     public static void main(String[] args){
         Students s1;
-        s1=new Students;
+        s1=new Students();
         s1.StudentID=16;
         s1.StudentName="Sohail";
         s1.StudentCity="Hyderabad";

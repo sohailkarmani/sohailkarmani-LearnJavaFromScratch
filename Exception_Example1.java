@@ -1,4 +1,4 @@
-package oops;
+//package oops;
 
 public class Exception_Example1 {
     public static void main(String[] args) {

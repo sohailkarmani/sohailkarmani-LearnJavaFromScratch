@@ -1,4 +1,4 @@
-package oops;
+//package oops;
 
 public class Shoping {
     private int appleSelect;

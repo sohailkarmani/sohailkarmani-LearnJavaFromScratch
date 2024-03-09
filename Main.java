@@ -1,4 +1,4 @@
-package oops;
+//package oops;
 public class Main {
     public static void main(String[] args) {
         Cat cat1=new Cat(false,"milk", 4,"Black");

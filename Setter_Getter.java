@@ -22,8 +22,8 @@ public class Setter_Getter {
     }
 
     void display() {
-        System.out.println("Name  :" +this.name);
-        System.out.println("Age :" + this.age);
+        System.out.println("Name  :"+name);
+        System.out.println("Age :" +age);
     }
 
     public static void main(String[] args) {
@@ -33,6 +33,7 @@ public class Setter_Getter {
         System.out.println("Enter age");
         int age = sc.nextInt();
         Setter_Getter o1 = new Setter_Getter();
+        
         o1.setName("Sohail");
         o1.setAge(20);
         o1.display();

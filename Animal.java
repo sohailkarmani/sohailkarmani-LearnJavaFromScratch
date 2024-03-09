@@ -1,5 +1,5 @@
 
-package oops;
+//package oops;
 public class Animal {
     private boolean vegetarian;
     private String eats;

@@ -13,5 +13,7 @@ public class Break {
         System.out.println(num);
         num++;
     }
+
+    sc.close();
     }
 }
