@@ -32,6 +32,8 @@ public class Setter_Getter {
         String name = sc.nextLine();
         System.out.println("Enter age");
         int age = sc.nextInt();
+
+        System.out.println(name+"  "+age);
         Setter_Getter o1 = new Setter_Getter();
         
         o1.setName("Sohail");
