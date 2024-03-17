@@ -17,11 +17,11 @@ class Document implements Searchable {
 
 class Webpage implements Searchable {
 
-    private String url;
+    //private String url;
     private String htmlContent;
 
     public Webpage(String url, String htmlContent) {
-        this.url = url;
+        //this.url = url;
         this.htmlContent = htmlContent;
     }
 
